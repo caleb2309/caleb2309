@@ -20,7 +20,7 @@ caleb = {
     "age"       : 19,
     "degree"    : "B.E. Electrical & Electronics Engineering",
     "university": "Accra Institute of Technology, Ghana",
-    "identity"  : ["Embedded Systems Engineer", "Maker", "Full-Stack Dev"],
+    "identity"  : ["Embedded Systems Engineer", "Innovator", "Full-Stack Dev"],
     "motto"     : "Use tech in its various forms to solve problems and improve lives",
     "currently" : "Building a CNC Pen Plotter 🖊️",
 }
