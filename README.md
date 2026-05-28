@@ -9,12 +9,9 @@
  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ 
 ```
 
-### Caleb Druye — EEE Student · Maker · Builder
+### Caleb Druye — EEE Student · Innovator · Builder
 
-*"If I can imagine it, I can build it."*
-
-[![GitHub followers](https://img.shields.io/github/followers/caleb2309?style=flat-square&color=00d4aa&labelColor=0d1117&label=followers)](https://github.com/caleb2309)
-[![Profile Views](https://komarev.com/ghpvc/?username=caleb2309&style=flat-square&color=00d4aa&labelColor=0d1117)](https://github.com/caleb2309)
+*"I build machines that think a little and code that moves things"*
 
 </div>
 
