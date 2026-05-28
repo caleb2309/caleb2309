@@ -1,13 +1,8 @@
 <div align="center">
 
-```
- ██████╗ █████╗ ██╗     ███████╗██████╗ 
-██╔════╝██╔══██╗██║     ██╔════╝██╔══██╗
-██║     ███████║██║     █████╗  ██████╔╝
-██║     ██╔══██║██║     ██╔══╝  ██╔══██╗
-╚██████╗██║  ██║███████╗███████╗██████╔╝
- ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ 
-```
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=CALEB+DRUYE;Engineer+%7C+Builder+%7C+Developer;Robotics+%7C+AI+%7C+Embedded+Systems" />
+</h1>
 
 ### Caleb Druye — EEE Student · Innovator · Builder
 
