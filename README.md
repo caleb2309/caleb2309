@@ -90,7 +90,7 @@ I build things that exist in the real world, hardware you can touch, firmware th
 |---|---|---|
 | 🤖 [Robotic Hand](https://github.com/caleb2309/Nean) | 3D-printed hand that mirrors real human hand motion in real time | Arduino · Python · MediaPipe · OpenCV |
 | ✍️ [CNC Pen Plotter](https://github.com/caleb2309/cnc-pen-plotter) | Converts any image into G-code and draws it on paper | Arduino · Python · OpenCV · Stepper Motors |
-| 🌡️ [Temperature Monitor](https://github.com/caleb2309/temperature-monitor) | PIC microcontroller-based temperature sensing and display system | PIC16F877a · Embedded C · Proteus |
+| 🌡️ [Temperature Monitor]() | PIC microcontroller-based temperature sensing and display system | PIC16F877a · Embedded C · Proteus |
 | 🛰️ [TwinGate – Digital Twin](https://github.com/caleb2309/DigiTwins) | IoT device that mirrors real-world sensor motion in a live 3D web dashboard | Raspberry Pi Pico · MicroPython · Node.js · WebSocket |
 | 🧠 [IRIS – Virtual Assistant](https://github.com/caleb2309/IRIS) | Custom-built voice/text virtual assistant | TypeScript · Node.js |
 
@@ -98,7 +98,7 @@ I build things that exist in the real world, hardware you can touch, firmware th
 
 ## 🚧 Currently Building
 
-> **CNC Pen Plotter v2** — adding a web interface with remote image upload via QR code, so anyone nearby can queue a drawing from their phone.
+> **CNC Pen Plotter ** — fixing bugs and adding a web interface with remote image upload via QR code, so anyone nearby can queue a drawing from their phone.
 
 ---
 
