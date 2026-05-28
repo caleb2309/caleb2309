@@ -29,12 +29,12 @@ caleb = {
     "degree"    : "B.E. Electrical & Electronics Engineering",
     "university": "Accra Institute of Technology, Ghana",
     "identity"  : ["Embedded Systems Engineer", "Maker", "Full-Stack Dev"],
-    "motto"     : "Use technology to solve problems and improve lives",
+    "motto"     : "Use tech in its various forms to solve problems and improve lives",
     "currently" : "Building a CNC Pen Plotter 🖊️",
 }
 ```
 
-I build things that exist in the real world — hardware you can touch, firmware that runs on bare metal, and software that ties it all together. My work lives at the intersection of **electronics**, **robotics**, and **code**.
+I build things that exist in the real world, hardware you can touch, firmware that runs on bare metal, and software that ties it all together. My work lives at the intersection of **electronics**, **robotics**, and **code**.
 
 ---
 
