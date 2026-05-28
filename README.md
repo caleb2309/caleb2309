@@ -43,11 +43,14 @@ I build things that exist in the real world, hardware you can touch, firmware th
 **Embedded & Hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-000000?style=flat-square&logo=raspberrypi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-555555?style=flat-square&logo=c&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1E90FF?style=flat-square&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=flat-square&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6B35?style=flat-square&logoColor=white)
+![Ultimaker Cura](https://img.shields.io/badge/Cura-FF9E0F?style=flat-square&logoColor=white)
+![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X%20IDE-8E44AD?style=flat-square&logoColor=white)
 
 **Software & Vision**
 
@@ -56,14 +59,22 @@ I build things that exist in the real world, hardware you can touch, firmware th
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Web & Tools**
+**Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+
 
 ## 🔩 Featured Projects
 
